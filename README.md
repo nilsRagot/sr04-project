@@ -1,7 +1,11 @@
 # sr04-project
-## titre 2 machin
+
+## titre 2 machin-bidule
+
 ### titre 3
+
 ...
+
 ###### titre 6
 
 - element
@@ -11,17 +15,17 @@
 1. coucou
 2. coucou
 
-
 ```python
 print("coucou")
 ```
 
 > remarque :
- 
-*italique*  
+
+_italique_  
 **gras**  
-***gras et italique***
+**_gras et italique_**
 
 [texte du lien](https://code.visualstudio.com/docs/?dv=win64user)
 
 ![alt text](./image.png)
+
